@@ -1,0 +1,3 @@
+[submodule "Oscilloscope-with-Function-generator-Board-Code/STM32-Drivers"]
+	path = Oscilloscope-with-Function-generator-Board-Code/STM32-Drivers
+	url = https://github.com/AhmedAbd-ElFattah/STM32-Drivers
